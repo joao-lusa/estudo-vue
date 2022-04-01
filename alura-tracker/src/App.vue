@@ -5,6 +5,9 @@
     </div>
     <div class="column is-three-quarter">
       <Formulario/>
+      <div class="lista">
+
+      </div>
     </div>
   </main>
 </template>
