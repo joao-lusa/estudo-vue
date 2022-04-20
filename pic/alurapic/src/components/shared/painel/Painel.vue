@@ -13,8 +13,11 @@
   }
 </script>
 
-<style>
+<style scoped>
   /* estilo do painel */
+  *{
+      box-shadow: 5px 5px 5px;
+  }
   .painel {
   padding: 0 auto;
   border: solid 2px grey;
